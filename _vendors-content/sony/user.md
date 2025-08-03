@@ -36,7 +36,8 @@ Adaptive battery was reported on Android 11, but it can be present on earlier ve
 
 <div class="img-block">
   <figure>
-    <img src="/assets/img/sony/sony_adaptive.png">
+    <
+        img src="/assets/img/sony/sony_adaptive.png">
   </figure>
 
 </div>
